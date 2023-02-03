@@ -19,3 +19,10 @@ https://discord.gg/f4sKFrsHyK
 dolphiliaが運営しているMastodonサーバーです。今回のために新しく作成しました。
 
 https://miga.pw
+
+---
+
+dolphilia
+
+- https://dolphilia.com
+- https://twitter.com/dolphilia
